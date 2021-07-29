@@ -29,7 +29,7 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedb
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/80vwZaO.png" group-title="News",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-DqMHYvLWcDU/YOrHVkxBjmI/AAAAAAAAARQ/eOh7fcrIHeA7j0MvLE9MPjQ6J2r42JmCQCLcBGAsYHQ/s200/images%2B%25283%2529%25284%2529.jpeg" group-title="Undefined",NEWS 24
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",NEWS 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-3Uciudd_7c4/YOrMDu0b_FI/AAAAAAAAAS0/iCm5y2aHGaU7rvEsvK333J9fTQ2FvxkXQCLcBGAsYHQ/s200/images%2B%252811%2529.jpeg" group-title="News",News 18 Hindi
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?checkedby:iptvcat.com
