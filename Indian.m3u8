@@ -59,3 +59,19 @@ http://tv.pmcon.net/hls/stream39.m3u8
 http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/3381
 #EXTINF:-1 ch-id="MTV BEATS HD (IN)" tvg-logo=" "  group-title="JIO TV",MTV BEATS HD (IN)
 https://jio.instream.ml/jio.php?c=MTV_Beats_HD&q=400&e=.m3u8
+#EXTINF:-1 group-title="Movies",HBOSignature
+http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+#EXTINF:-1 group-title="Movies",FOX
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="Movies",FOXCRIME
+http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+#EXTINF:-1 group-title="Movies",FOXActionMovies
+http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+#EXTINF:-1 group-title="Movies",FoxFamilyMovies
+http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+#EXTINF:-1 group-title="Movies",FOXMOVIES
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="Movies",FOXLife
+https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Movies",HBOHD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
