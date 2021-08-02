@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
 
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies",& PRIVE HD
+#EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Hindi Movies",& PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-iSH8Wk-Uz7U/YOv6EgndZwI/AAAAAAAAAXQ/CRu7AAz_X3I8Wab7bXNiPenmzcuai7-qACLcBGAsYHQ/s200/images%2B%252813%2529%25281%2529.jpeg" group-title="Hindi Movies",BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8?checkedby:iptvcat.com
@@ -20,7 +20,7 @@ http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="Hindi Movies",Zee Cinema 4K
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://84.17.41.7/ZeeCinemaHD-Hin/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD 4K" tvg-logo="" group-title="Hindi Movies",Star Gold HD 4K
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD 4K" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",Star Gold HD 4K
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex 4K" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Hindi Movies",Colors Cineplex 4K
 http://84.17.41.7:80/Rishtey_Cineplex_IND/mono.m3u8
@@ -40,21 +40,21 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
 
 
-#EXTINF:-1 group-title="English Movies",HBOSignature
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122" group-title="English Movies",HBOSignature
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-#EXTINF:-1 group-title="English Movies",FOX
+#EXTINF:-1 tvg-logo="" group-title="English Movies",FOX
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="English Movies",FOXCRIME
+#EXTINF:-1 tvg-logo="" group-title="English Movies",FOXCRIME
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-#EXTINF:-1 group-title="English Movies",FOXActionMovies
+#EXTINF:-1 tvg-logo="" group-title="English Movies",FOXActionMovies
 http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-#EXTINF:-1 group-title="English Movies",FoxFamilyMovies
+#EXTINF:-1 tvg-logo="" group-title="English Movies",FoxFamilyMovies
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
-#EXTINF:-1 group-title="English Movies",FOXMOVIES
+#EXTINF:-1 tvg-logo="" group-title="English Movies",FOXMOVIES
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="English Movies",FOXLife
+#EXTINF:-1 tvg-logo="" group-title="English Movies",FOXLife
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="English Movies",HBOHD
+#EXTINF:-1 tvg-logo="" group-title="English Movies",HBOHD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD 4K" tvg-logo="" group-title="English Movies",Star Movies HD 4K
 http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
@@ -70,48 +70,14 @@ http://84.17.41.7/StarMoviesHD-Hin/index.m3u8
 http://103.157.237.18:8000/play/707
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies Select
 http://livemano.webd.pro/iptv.m3u8?id=20646
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies Select Rex
-http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=RK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies Select Rex 2
-http://212.224.98.208:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-id="0-9-privéhd" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Prive HD 
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="0-9-privéhd" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Prive HD Link 2
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
-#EXTINF:-1 tvg-id="0-9-privéhd" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Prive HD Garuda 
-https://garuda-cdn.xyz/live/60c355026a422/12345/60700fde84b1b/60700fde84b1b.ts
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix Main
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5f98abc05d35144b0842889500df1e9fd27885b72a866b2df851f0d5a0607245acc438455a2dc039981889e16cb81ae1dca1989d037e7e7c2e542fc5743c7553fdd64bd4268cd5876aa2c4743d3b&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix HD 
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix HD Airtel
-http://103.157.237.18:8000/play/716
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix HD Link 2
-http://cv.khushitv.xyz/channels.php?c=andflixhd&m3u8
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix HD Link 3
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix SD 
-https://y5w8j4a9.ssl.hwcdn.net/andflix/index.m3u8
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",And Flix SD Link 2
-http://cv.khushitv.xyz/channels.php?c=andflix&m3u8
-#EXTINF:-1 tvg-id="ts562" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Movies Now HD Airtel 
-http://103.157.237.18:8000/play/725
 #EXTINF:-1 tvg-id="ts562" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",MOVIES NOW HD Watch India
 http://watchindia.net:8880/live/33253/72963/2102.ts
-#EXTINF:-1 tvg-id="ts562" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",MOVIES NOW HD Rex
-http://212.224.98.196:2200/R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=rk
-#EXTINF:-1 tvg-id="ts562" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",MOVIES NOW HD Link 2
-https://cutt.ly/unAKBRy
-#EXTINF:-1 tvg-id="ts562" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",MOVIES NOW HD Link 3
-https://cutt.ly/anSUoeA
-#EXTINF:-1 tvg-id="ts599" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",MNX HD Airtel
-http://103.157.237.18:8000/play/713
-#EXTINF:-1 tvg-id="ts599" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",MN+ HD
-http://103.157.237.18:8000/play/730
-#EXTINF:-1 tvg-id="ts599" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Romedy Now HD
-http://103.157.237.18:8000/play/727
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",Colors Infinity HD
-https://redjoyiptv.co/jio/m3u8rftv.php?c=Colors_Infinity_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",HBO Link 1
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies",HBO Link 2
