@@ -207,14 +207,6 @@ https://idvd.multitvsolution.com/idvo/discoveryhindi.m3u8
 https://idvd.multitvsolution.com/idvo/discoversciencehindi.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY SIX HD" tvg-logo="http://dmtn.tv:8080/images/fdbabdc0b8549879d56f4ca542ede64d.png" group-title="Sports",SONY SIX HD
-https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="http://dmtn.tv:8080/images/343056ab40edfcb2eaf2b4ba28cb9d70.png" group-title="Sports",SONY TEN 1 HD
-https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2 HD" tvg-logo="http://dmtn.tv:8080/images/6b35edd43fa30eb56d7843dcf92bf2df.png" group-title="Sports",SONY TEN 2 HD
-https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3 HD" tvg-logo="http://dmtn.tv:8080/images/1d46d65e45f797e390b76111f3baeb73.png" group-title="Sports",SONY TEN 3 HD
-https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="https://assets.rstream.me/images/h/OCsZipbCKK.jpg" group-title="Sports",STAR SPORTS 1 HINDI HD
 http://watchindia.net:8880/live/33253/72963/1072.ts
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://dmtn.tv:8080/images/f1395218a06b6639a2d935c0cfd36298.png" group-title="Sports",STAR SPORTS 2 HD
