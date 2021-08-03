@@ -196,10 +196,6 @@ https://idvd.multitvsolution.com/idvo/discoversciencehindi.m3u8
 http://watchindia.net:8880/live/33253/72963/1072.ts
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://dmtn.tv:8080/images/f1395218a06b6639a2d935c0cfd36298.png" group-title="Sports",STAR SPORTS 2 HD
 http://watchindia.net:8880/live/33253/72963/1069.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Sports",STAR SPORTS SELECT 1 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/87304
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Sports",STAR SPORTS SELECT 2 HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/87300
 
 ########################################## Entertainment ######################################################
 
