@@ -170,13 +170,6 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:iptvcat.c
 #EXTINF:-1 tvg-id="" tvg-name="NEWS NATION" tvg-logo="https://static.epg.best/in/NewsNation.in.png" group-title="News",NEWS NATION
 https://m-c02-j2apps.s.loris.llnwd.net/hls/1062.NewsNation.in_480p/index.m3u8
 
-########################################## Kids ######################################################
-
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Kids",SHEMARRO KIDS
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-q5aGCfclS3U/YOrA3Z3-VHI/AAAAAAAAAPM/c19BDzhkHAkumK_hcWalV6h-PLzGOMkoQCLcBGAsYHQ/s200/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",DISCOVERY KIDS
-https://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
-
 ########################################## Education ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="EDUCATION",National Geographic HD Hindi
