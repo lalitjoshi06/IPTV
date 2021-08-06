@@ -21,7 +21,7 @@ http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Hindi Movies",Colors Cineplex HD
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="Hindi Movies",Zee Cinema 4K
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://84.17.41.7/ZeeCinemaHD-Hin/mono.m3u8
+http://84.17.41.7/ZeeCinemaHD-Hin/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold HD 4K" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",Star Gold HD 4K
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex 4K" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Hindi Movies",Colors Cineplex 4K
