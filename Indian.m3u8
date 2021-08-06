@@ -65,7 +65,7 @@ http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies Main
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies Link 3
-http://84.17.41.7/StarMoviesHD-Hin/index.m3u8
+http://tv.zaintv.net:80/Davidemmanuel/D477376480/56315
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies Select HD Airtel
 http://103.157.237.18:8000/play/707
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="English Movies",Star Movies Select
