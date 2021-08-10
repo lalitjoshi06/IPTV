@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://rstream.me/epg.xml.gz" 
+#EXTM3U url-tvg="http://rstream.me/epg.xml" 
 #EXTM3U
 #EXTINF:0 tvg-ID="sonyhd.in" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony Hd
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
