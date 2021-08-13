@@ -203,6 +203,14 @@ https://idvd.multitvsolution.com/idvo/discoversciencehindi.m3u8
 http://watchindia.net:8880/live/33253/72963/1072.ts
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://dmtn.tv:8080/images/f1395218a06b6639a2d935c0cfd36298.png" group-title="Sports",STAR SPORTS 2 HD
 http://watchindia.net:8880/live/33253/72963/1069.ts
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten1in.jpg" group-title="Sports",Sony Ten 1 HD IN
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10168
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten2in.jpg" group-title="Sports",Sony Ten 2 HD IN
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10170
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="Sony Ten 3 IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten3in.jpg" group-title="Sports",Sony Ten 3 IN
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10169
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="Sony Six HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonysixin.jpg" group-title="Sports",Sony Six HD IN
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/18805
 
 ########################################## Entertainment ######################################################
 
