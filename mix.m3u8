@@ -1,0 +1,452 @@
+#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
+
+#EXTINF:-1 tvg-id="" tvg-name="ABP News IN" tvg-logo="https://picon-13398.kxcdn.com/abpnews.jpg" group-title="Perfect",ABP News
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/18792
+
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="Sony Max 2 IN" tvg-logo="https://picon-13398.kxcdn.com/sonymax2in.jpg" group-title="Perfect",Sony Max 2
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/18802
+
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Bollywood Dilse HD IN" tvg-logo="https://picon-13398.kxcdn.com/bolllywooddilsein.jpg" group-title="Perfect",Bollywood Dilse HD IN
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/18803
+
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="Sony Six HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonysixin.jpg" group-title="Perfect",Sony Six HD
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/18805
+
+#EXTINF:-1 tvg-id="Sony.in" tvg-name="Sony TV HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonytv.jpg" group-title="Perfect",Sony TV HD
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/18806
+
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1 HD IN" tvg-logo="https://picon-13398.kxcdn.com/starsports1hdin.jpg" group-title="Perfect",Star Sports 1 HD
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/18807
+
+#EXTINF:-1 tvg-id="AndPictures.in" tvg-name="& pictures HD IN" tvg-logo="https://picon-13398.kxcdn.com/andpictureshdin.jpg" group-title="Perfect",& pictures HD
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10134
+
+#EXTINF:-1 tvg-id="AndTV.in" tvg-name="& TV HD IN" tvg-logo="https://picon-13398.kxcdn.com/andtvhd.jpg" group-title="Perfect",& TV HD
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/6234
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM IN" tvg-logo="https://picon-13398.kxcdn.com/9xmin.jpg" group-title="Perfect",9XM
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10185
+
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies IN" tvg-logo="https://picon-13398.kxcdn.com/b4umovies.jpg" group-title="Perfect",B4U Movies
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/6217
+
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music IN" tvg-logo="https://picon-13398.kxcdn.com/b4umusic.jpg" group-title="Perfect",B4U Music
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/6233
+
+#EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Perfect",UTV
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/6236
+
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors HD BD" tvg-logo="https://picon-13398.kxcdn.com/colorsin.jpg" group-title="Perfect",Colors HD
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/1988
+
+#EXTINF:-1 tvg-id="" tvg-name="Desi Channel IN" tvg-logo="https://picon-13398.kxcdn.com/desichannelin.jpg" group-title="Perfect",Desi Channel
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10141
+
+#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Discovery IN" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Perfect",Discovery
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10147
+
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-name="Star Bharat IN" tvg-logo="https://picon-13398.kxcdn.com/starbharatin.jpg" group-title="Perfect",Star Bharat
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10179
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV IN" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Perfect",MTV
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/6219
+
+#EXTINF:-1 tvg-id="TEZ.in" tvg-name="Tez News IN" tvg-logo="https://picon-13398.kxcdn.com/tezin.jpg" group-title="Perfect",Tez News
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10193
+
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India IN" tvg-logo="https://picon-13398.kxcdn.com/musicin.jpg" group-title="Perfect",Music India
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/6245
+
+#EXTINF:-1 tvg-id="" tvg-name="NDTV IN" tvg-logo="https://picon-13398.kxcdn.com/ndtvindia.jpg" group-title="Perfect",NDTV
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10180
+
+#EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="Zee Café IN" tvg-logo="https://picon-13398.kxcdn.com/zeecafein.jpg" group-title="Perfect",Zee Café
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/6243
+
+#EXTINF:-1 tvg-id="" tvg-name="Rishtey Europe IN" tvg-logo="https://picon-13398.kxcdn.com/rishtey.jpg" group-title="Perfect",Rishtey Colors
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/6239
+
+#EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV IN" tvg-logo="https://picon-13398.kxcdn.com/sanskartvin.jpg" group-title="Perfect",Sanskar TV
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10162
+
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2 IN" tvg-logo="https://picon-13398.kxcdn.com/starsports2hdin.jpg" group-title="Perfect",Star Sports 2
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10165
+
+#EXTINF:-1 tvg-id="Sony.in" tvg-name="Sony HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonytvin.jpg" group-title="Perfect",Sony HD
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10237
+
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonymaxin.jpg" group-title="Perfect",Sony Max HD
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10156
+
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold HD IN" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Perfect",Star Gold HD
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10161
+
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="Star Plus HD IN" tvg-logo="https://picon-13398.kxcdn.com/starplushdin.jpg" group-title="Perfect",Star Plus HD
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/6248
+
+#EXTINF:-1 tvg-id="StarUtsav.in" tvg-name="Star Gold Select IN" tvg-logo="https://picon-13398.kxcdn.com/stargoldselectin.jpg" group-title="Perfect",Star Gold Select
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/6228
+
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten1in.jpg" group-title="Perfect",Sony Ten 1 HD
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10168
+
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten2in.jpg" group-title="Perfect",Sony Ten 2 HD
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10170
+
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="Sony Ten 3 IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten3in.jpg" group-title="Perfect",Sony Ten 3
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10169
+
+#EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-name="Zee Anmol IN" tvg-logo="https://picon-13398.kxcdn.com/zeeanmolin.jpg" group-title="Perfect",Zee Anmol
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10173
+
+#EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name="Zee News IN" tvg-logo="https://picon-13398.kxcdn.com/zeenewsin.jpg" group-title="Perfect",Zee News
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/6246
+
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema HD IN" tvg-logo="https://picon-13398.kxcdn.com/zeecinema.jpg" group-title="Perfect",Zee Cinema HD
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/6247
+
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Anmol Cinema IN" tvg-logo="https://picon-13398.kxcdn.com/zeeanmolcinemain.jpg" group-title="Perfect",Zee Anmol Cinema
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10254
+
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema UK IN" tvg-logo="https://picon-13398.kxcdn.com/zeecinema.jpg" group-title="Perfect",Zee Cinema
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10239
+
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV HD IN" tvg-logo="https://picon-13398.kxcdn.com/zeetv.jpg" group-title="Perfect",Zee TV HD
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/6242
+
+#EXTINF:-1 tvg-id="Zing.in" tvg-name="Sony BBC Earth IN" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="Perfect",Sony BBC Earth
+http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/6226
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: & Flix HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="Tree",IN: & Flix HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/45506
+#EXTINF:-1 tvg-id="" tvg-name="IN: & Now HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ad76cd879232d530ba344e17e4d4b993.png" group-title="Tree",IN: & Now HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/82513
+#EXTINF:-1 tvg-id="" tvg-name="IN: & pictures FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a1f81b40485819fec3ef445eb88d0557.png" group-title="Tree",IN: & pictures FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/16958
+#EXTINF:-1 tvg-id="" tvg-name="IN: & Prive HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="Tree",IN: & Prive HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49557
+#EXTINF:-1 tvg-id="" tvg-name="IN: & TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6892a0ecf005c94f596ff86d2956689e.png" group-title="Tree",IN: & TV HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/16964
+#EXTINF:-1 tvg-id="" tvg-name="IN: & Xplor FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/18036e4bd3ddc3c3db52b1130ef78451.png" group-title="Tree",IN: & Xplor FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/196116
+#EXTINF:-1 tvg-id="" tvg-name="IN: 1st India HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8fe8e68daffc9236e9caeb9952056500.png" group-title="Tree",IN: 1st India HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/159102
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9X Jalwa HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4a7478c536efb581d336c1a404206cb2.png" group-title="Tree",IN: 9X Jalwa HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/45465
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9X Jhakaas HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/936f84ee0b67a5725ab0f7690f31daa6.png" group-title="Tree",IN: 9X Jhakaas HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/165802
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9X Tashan HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a9f700703056598f8b2cc1313eadbf7b.png" group-title="Tree",IN: 9X Tashan HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/45455
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9XM HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7ae64593b56437b694019f85fe0d2a57.png" group-title="Tree",IN: 9XM HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/45471
+#EXTINF:-1 tvg-id="" tvg-name="IN: A One TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Tree",IN: A One TV FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49627
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aaj Tak HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef24d3b47d22022b7c73816653c39167.png" group-title="Tree",IN: Aaj Tak HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/12977
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aapka Colors HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7d0e4ea08f083d15b315d6e2db1993d4.png" group-title="Tree",IN: Aapka Colors HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/196121
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aastha TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/13355aca97c24ac469d51750cfcd38a6.png" group-title="Tree",IN: Aastha TV HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/145647
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9f57eb6f8ec12254045254ccaa736c2a.png" group-title="Tree",IN: ABP HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/192817
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7acb6b2bb88f4f5572c5a85ab62dd7fd.png" group-title="Tree",IN: ABP News HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/17122
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP News India HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9f279e1bc8b6b3baff495c6a2cfb2be7.png" group-title="Tree",IN: ABP News India HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/16962
+#EXTINF:-1 tvg-id="" tvg-name="IN: ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/13b8ba0fcfe751a80985300dc6db3d7f.png" group-title="Tree",IN: ANIMAL PLANET HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1370
+#EXTINF:-1 tvg-id="" tvg-name="IN ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/13b8ba0fcfe751a80985300dc6db3d7f.png" group-title="Best of Documentary",IN ANIMAL PLANET HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/273373
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Kadak HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7e1336a57c7f6dfb301b73836cead0c3.png" group-title="Tree",IN: B4U Kadak HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49556
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Movies APAC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3f3c3fd523ec5b987c4b8b26aa6f79e3.png" group-title="Tree",IN: B4U Movies APAC HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/71071
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Movies HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/91625361b83e16f929b69d33fb9e52d5.png" group-title="Tree",IN: B4U Movies HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1369
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Music HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/74204965261c6f9140a244bcc2710e80.png" group-title="Tree",IN: B4U Music HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1368
+#EXTINF:-1 tvg-id="" tvg-name="IN B4U Music HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/74204965261c6f9140a244bcc2710e80.png" group-title="Best of Music",IN B4U Music HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/274726
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Plus HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c7a7a719272833e9c9c605b35c6c6c5d.png" group-title="Tree",IN: B4U Plus HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1367
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bindass HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b7416e03d632c05218d7bff104bac7dc.png" group-title="Tree",IN: Bindass HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/145655
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bollywood Classics FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Tree",IN: Bollywood Classics FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/269720
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bollywood Movies HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Tree",IN: Bollywood Movies HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/73791
+#EXTINF:-1 tvg-id="" tvg-name="IN: Boogle Bollywood FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Tree",IN: Boogle Bollywood FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/193087
+#EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ed17d1552de03d6c86481eb7b1deff6.png" group-title="Tree",IN: Cartoon Network HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/82584
+#EXTINF:-1 tvg-id="" tvg-name="IN Cartoon Network HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ed17d1552de03d6c86481eb7b1deff6.png" group-title="Best of Kids",IN Cartoon Network HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/273303
+#EXTINF:-1 tvg-id="" tvg-name="IN: Channel WIN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f9687907e4852519537b5aa56bee9ab.png" group-title="Tree",IN: Channel WIN HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/172318
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC Awaaz HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/34add1edff1f19b30b0b9e22d41407de.png" group-title="Tree",IN: CNBC Awaaz HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49583
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC Bajar HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/388ce1e6457a331d9a68d5c59634c584.png" group-title="Tree",IN: CNBC Bajar HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/82506
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC TV 18 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/65a23d8e6f37fb9b6ba3f94b958dcdbf.png" group-title="Tree",IN: CNBC TV 18 HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/192198
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNN News 18 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7005ea683dfb4fb2b69dd1c74d265668.png" group-title="Tree",IN: CNN News 18 HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/162128
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Cineplex Bollywood FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3623749bb8e42b449219989d4291bb64.png" group-title="Tree",IN: COLORS Cineplex Bollywood FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/19741
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Cineplex HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/35f74dfa94defc8578fcc57a206bc3d3.png" group-title="Tree",IN: COLORS Cineplex HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49550
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3b706945ff908d5911a0be1eafffb46f.png" group-title="Tree",IN: COLORS FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1366
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Rishtey HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/57698714035590a5681e1ddf715be5f9.png" group-title="Tree",IN: COLORS Rishtey HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49547
+#EXTINF:-1 tvg-id="" tvg-name="IN: Corona Virus State FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Tree",IN: Corona Virus State FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/197534
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD India HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a532a1f64e91ea4ead84ff678e1592b1.png" group-title="Tree",IN: DD India HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/165806
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD National FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/746367cc1836232bef9d8e869420493c.png" group-title="Tree",IN: DD National FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/192197
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a9182065b952abc2263ed53af8259479.png" group-title="Tree",IN: DD News HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/21668
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/774c4049df9ead1fff6c94e3c6f7a117.png" group-title="Tree",IN: DD Sports HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/56153
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Uttar Pradesh HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a1e3c1dad92c799bd1694c642f3f358f.png" group-title="Tree",IN: DD Uttar Pradesh HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/193051
+#EXTINF:-1 tvg-id="" tvg-name="IN: Desi Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Tree",IN: Desi Channel HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49601
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dhoom Music HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce13284a7100c8624c16913a7886eebe.png" group-title="Tree",IN: Dhoom Music HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/69362
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dillagi HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/acc81560456e46ec876a40795b6ffa22.png" group-title="Tree",IN: Dillagi HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/196128
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/249c454173fa6205144acb92a8e5c25e.png" group-title="Tree",IN: Discovery Kids HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/82683
+#EXTINF:-1 tvg-id="" tvg-name="IN Discovery Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/249c454173fa6205144acb92a8e5c25e.png" group-title="Best of Documentary",IN Discovery Kids HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/273814
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery World HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e09b6b18106fce22c2dd8fed0a50589e.png" group-title="Tree",IN: Discovery World HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/73792
+#EXTINF:-1 tvg-id="" tvg-name="IN Discovery World HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e09b6b18106fce22c2dd8fed0a50589e.png" group-title="Best of Documentary",IN Discovery World HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/273802
+#EXTINF:-1 tvg-id="" tvg-name="IN: Disney Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e3681e2dc4800213e1c2c4142afe6108.png" group-title="Tree",IN: Disney Channel HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/192985
+#EXTINF:-1 tvg-id="" tvg-name="IN Disney Channel HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e3681e2dc4800213e1c2c4142afe6108.png" group-title="Best of Kids",IN Disney Channel HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/274606
+#EXTINF:-1 tvg-id="" tvg-name="IN: Enterr 10 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c030bd103597ecfdc29086cde36cfb19.png" group-title="Tree",IN: Enterr 10 HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/193025
+#EXTINF:-1 tvg-id="" tvg-name="IN: Epic TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ac4ac4c95f2c7af6bb119c2458ce31f.png" group-title="Tree",IN: Epic TV HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/192950
+#EXTINF:-1 tvg-id="" tvg-name="IN: Firangi HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4a22cd010c2537c230d4621b7e0740ff.png" group-title="Tree",IN: Firangi HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/267192
+#EXTINF:-1 tvg-id="" tvg-name="IN: ILove HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d59ad172cc71ca5c0645326f1e64ea07.png" group-title="Tree",IN: ILove HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49560
+#EXTINF:-1 tvg-id="" tvg-name="IN: India News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8d0958a45ea16ecea0e9a41ae42c836.png" group-title="Tree",IN: India News HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/192968
+#EXTINF:-1 tvg-id="" tvg-name="IN: India Today HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/605a6f1ad45e50c8dec82884a85c9a8a.png" group-title="Tree",IN: India Today HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/16970
+#EXTINF:-1 tvg-id="" tvg-name="IN: India TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3aa3d8bc970ec9ab9ca530865a4907ac.png" group-title="Tree",IN: India TV HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49577
+#EXTINF:-1 tvg-id="" tvg-name="IN: Living India News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/20f1d0dad317a63ebea41afc008a4b8e.png" group-title="Tree",IN: Living India News HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/159107
+#EXTINF:-1 tvg-id="" tvg-name="IN: M Music HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Tree",IN: M Music HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/267462
+#EXTINF:-1 tvg-id="" tvg-name="IN M Music HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Music",IN M Music HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/274885
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mastiii HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b3389339bd16854406ac7233c5c5501a.png" group-title="Tree",IN: Mastiii HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/76958
+#EXTINF:-1 tvg-id="" tvg-name="IN: Media One HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6da706192ed41078abbdf6bdb0d86fe0.png" group-title="Tree",IN: Media One HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/51851
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mirror Now HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/93de151a01fff4cc1dcac0fd43fe591d.png" group-title="Tree",IN: Mirror Now HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/193096
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV Beats HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c167264b1c8ed82ac209f94dec1319c2.png" group-title="Tree",IN: MTV Beats HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/193068
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV India HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/53fbf5a419f6643e41151df74bb16b9e.png" group-title="Tree",IN: MTV India HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/193647
+#EXTINF:-1 tvg-id="" tvg-name="IN: Music India HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7d95816cfe587520ba64ac4a3621423f.png" group-title="Tree",IN: Music India HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1358
+#EXTINF:-1 tvg-id="" tvg-name="IN Music India HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7d95816cfe587520ba64ac4a3621423f.png" group-title="Best of Music",IN Music India HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/279311
+#EXTINF:-1 tvg-id="" tvg-name="IN: NAT GEO Wild HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b91e21266227754b1b2054f4e1124c3b.png" group-title="Tree",IN: NAT GEO Wild HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49566
+#EXTINF:-1 tvg-id="" tvg-name="IN NAT GEO Wild HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b91e21266227754b1b2054f4e1124c3b.png" group-title="Best of Documentary",IN NAT GEO Wild HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/274140
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV India HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b13c4d6511c08a518cdc7e53c36575be.png" group-title="Tree",IN: NDTV India HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/166390
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV Profit HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2fecdb6a59e4487d594717e32e47b809.png" group-title="Tree",IN: NDTV Profit HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/166388
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 India HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f3a3665872e85f549542e08f320a4438.png" group-title="Tree",IN: News 18 India HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/247511
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Lokmat HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b3ee0d740d6ee2e352b938b8bf050b3c.png" group-title="Tree",IN: News 18 Lokmat HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/82543
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Madhya Pradesh & Chhattisgarh HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ca5cb21a35381adc5f0274da16e3582.png" group-title="Tree",IN: News 18 Madhya Pradesh & Chhattisgarh HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/269717
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Rajasthan HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/984c1d7c05a3b46907e6a54aa584f19a.png" group-title="Tree",IN: News 18 Rajasthan HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/193012
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 24 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b6c52d4dbc0413e8d5b596d8bddad2e3.png" group-title="Tree",IN: News 24 HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/16601
+#EXTINF:-1 tvg-id="" tvg-name="IN: Pardesi TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Tree",IN: Pardesi TV FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49642
+#EXTINF:-1 tvg-id="" tvg-name="IN: Republic Bharat HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0c967020993b572faf6d511cc219b867.png" group-title="Tree",IN: Republic Bharat HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49582
+#EXTINF:-1 tvg-id="" tvg-name="IN: Republic TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/da4f866180422b1db1f1132c046b5a16.png" group-title="Tree",IN: Republic TV HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/82617
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rishtey Cineplex HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/04bff14c8fa1d944d274196677da32ed.png" group-title="Tree",IN: Rishtey Cineplex HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/71074
+#EXTINF:-1 tvg-id="" tvg-name="IN: Romedy Now HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d115158efb755812fac0d25e96bec925.png" group-title="Tree",IN: Romedy Now HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/51876
+#EXTINF:-1 tvg-id="" tvg-name="IN: Set India HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a134a27d8831f810faece0f32336e0b9.png" group-title="Tree",IN: Sony HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1072
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony BBC Earth HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2923e17c63e1e3a6a95152d4ebc66b38.png" group-title="Tree",IN: Sony BBC Earth HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/192995
+#EXTINF:-1 tvg-id="" tvg-name="IN Sony BBC Earth HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2923e17c63e1e3a6a95152d4ebc66b38.png" group-title="Best of Documentary",IN Sony BBC Earth HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/273663
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d4975f023a98c9cebea516a4fd98482c.png" group-title="Tree",IN: Sony Max 2 HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/4862
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/01624dbf5b113c4b044aa7bb9e7104f1.png" group-title="Tree",IN: Sony Max FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1359
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max India HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/204aab77089639f2bc393838adfd5580.png" group-title="Tree",IN: Sony Max India HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/63397
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pal HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/272f1039b592ab8ee695cda162daafe0.png" group-title="Tree",IN: Sony Pal HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/193645
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB TV Asia FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d12a683a9883989c1528fa718dd63775.png" group-title="Tree",IN: Sony SAB TV Asia FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1073
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB TV India HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b2c6c32cacf21d1bfe5c1949ec424fa6.png" group-title="Tree",IN: Sony SAB TV India HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/20649
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Six FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/73301e189b695b51e416e9631ee986a8.png" group-title="Tree",IN: Sony Six FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/4853
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="Tree",IN: Sony Ten 1 HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/16622
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="Tree",IN: Sony Ten 2 FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/16621
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Yay HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6e32dd2e7ffc5d81134832bcbd16e03d.png" group-title="Tree",IN: Sony Yay HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1355
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold India HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e24f29dada0a4a69bd8ad11788801df2.png" group-title="Tree",IN: Star Gold India HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1070
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus India HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f266f13993b9e77010269987bab47c7f.png" group-title="Tree",IN: Star Plus India HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1069
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="Tree",IN: Star Sports 1 HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/3630
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="Tree",IN: Star Sports 2 FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/3631
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="Tree",IN: Star Sports 3 HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/62584
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tez HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/96b9eb3d9d8057f802dad0c7d58324f9.png" group-title="Tree",IN: Tez HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/192196
+#EXTINF:-1 tvg-id="" tvg-name="IN: Utsav Gold HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0f3c82f5b0a45a6fd211505522dd40a8.png" group-title="Tree",IN: Utsav Gold HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/82623
+#EXTINF:-1 tvg-id="" tvg-name="IN: Utsav Plus HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a65ad5eaab77bbe22fac0884eb1a7774.png" group-title="Tree",IN: Utsav Plus HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/60347
+#EXTINF:-1 tvg-id="" tvg-name="IN: Willow HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ab8bd92ca12a287a208d3f6a2904cecf.png" group-title="Tree",IN: Willow HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/165776
+#EXTINF:-1 tvg-id="" tvg-name="IN: World Voice FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Tree",IN: World Voice FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49604
+#EXTINF:-1 tvg-id="" tvg-name="IN: Wow Cinema One HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5957304ab7dd4176e7772174fe06f1ab.png" group-title="Tree",IN: Wow Cinema One HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/197945
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Action HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7d9f57621c8113935568dabc68bb5d88.png" group-title="Tree",IN: Zee Action HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1353
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Anmol Cinema HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c5fee6bbc5e1c2292220e23c6e6d780f.png" group-title="Tree",IN: Zee Anmol Cinema HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/19467
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bollywood HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e6c48a8c46101a99e4a41418aaeb70aa.png" group-title="Tree",IN: Zee Bollywood HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1351
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Business HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9bcddf38e1547fadf65c31172b86f21b.png" group-title="Tree",IN: Zee Business HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/16984
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cafe HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ec7ea3a8510b9c3e2d63d314aae01977.png" group-title="Tree",IN: Zee Cafe HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/49561
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png" group-title="Tree",IN: Zee Cinema HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1350
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Classic HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4acdd893054d8789ed77d59a275d298.png" group-title="Tree",IN: ZEE Classic HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/21578
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Hindustan HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e76a9bdf41d34fde4f1b8221efc355b4.png" group-title="Tree",IN: Zee Hindustan HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/145633
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/59f3fa24fe411768bb5e776b6b0ec11d.png" group-title="Tree",IN: Zee News HD
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Smile HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Tree",IN: Zee Smile HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/198615
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Talkies HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7a65529546647b12b26bebc2ce020e6d.png" group-title="Tree",IN: Zee Talkies HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/16957
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e501bfa19af9f05f130e3d6e531620b1.png" group-title="Tree",IN: Zee TV FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/197423
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee TV India FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/806194dec889d62b53a395771f889bf8.png" group-title="Tree",IN: Zee TV India FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1348
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Yuva HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/16ba9a8ffb1485d63b548dede9a17524.png" group-title="Tree",IN: Zee Yuva HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/45502
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Zest FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5113b2791bc1412239bc93363d1d6f2c.png" group-title="Tree",IN: Zee Zest FHD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1361
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zing Asia HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c1c3e486da01a79183e793d9f2102215.png" group-title="Tree",IN: Zing Asia HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1347
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zing HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bb72ac5e3dacbb23f1a800219b7b9a79.png" group-title="Tree",IN: Zing HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/173160
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zoom HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/568f50fca8c93f5f54d6ba044d570687.png" group-title="Tree",IN: Zoom HD
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/192069
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY HD" tvg-logo="" group-title="Life",IN: SONY HD
+http://oqab.life:8080/3204/3204/85
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SAB HD" tvg-logo="" group-title="Life",IN: SONY SAB HD
+http://oqab.life:8080/3204/3204/86
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY PIX HD" tvg-logo="" group-title="Life",IN: SONY PIX HD
+http://oqab.life:8080/3204/3204/87
+#EXTINF:-1 tvg-id="" tvg-name="IN: HBO HD" tvg-logo="" group-title="Life",IN: HBO HD
+http://oqab.life:8080/3204/3204/88
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY MAX HD" tvg-logo="" group-title="Life",IN: SONY MAX HD
+http://oqab.life:8080/3204/3204/89
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TV HD" tvg-logo="" group-title="Life",IN: ZEE TV HD
+http://oqab.life:8080/3204/3204/90
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR PLUS (4K)" tvg-logo="" group-title="Life",IN: STAR PLUS (4K)
+http://oqab.life:8080/3204/3204/91
+#EXTINF:-1 tvg-id="" tvg-name="IN: Romedy Now HD" tvg-logo="" group-title="Life",IN: Romedy Now HD
+http://oqab.life:8080/3204/3204/92
+#EXTINF:-1 tvg-id="" tvg-name="IN:  History_HD" tvg-logo="" group-title="Life",IN:  History_HD
+http://oqab.life:8080/3204/3204/93
+#EXTINF:-1 tvg-id="" tvg-name="IN:  Travel XP HD" tvg-logo="" group-title="Life",IN:  Travel XP HD
+http://oqab.life:8080/3204/3204/94
+#EXTINF:-1 tvg-id="" tvg-name="IN:  Animal_Planet_HD" tvg-logo="" group-title="Life",IN:  Animal_Planet_HD
+http://oqab.life:8080/3204/3204/95
+#EXTINF:-1 tvg-id="" tvg-name="IN:  AXN_HD" tvg-logo="" group-title="Life",IN:  AXN_HD
+http://oqab.life:8080/3204/3204/96
+#EXTINF:-1 tvg-id="" tvg-name="IN: Comedy_Central_HD" tvg-logo="" group-title="Life",IN: Comedy_Central_HD
+http://oqab.life:8080/3204/3204/97
+#EXTINF:-1 tvg-id="" tvg-name="IN:  Colors_Infinity_HD" tvg-logo="" group-title="Life",IN:  Colors_Infinity_HD
+http://oqab.life:8080/3204/3204/98
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony_BBC_Earth_HD_English" tvg-logo="" group-title="Life",IN: Sony_BBC_Earth_HD_English
+http://oqab.life:8080/3204/3204/99
+#EXTINF:-1 tvg-id="" tvg-name="IN: MNX HD" tvg-logo="" group-title="Life",IN: MNX HD
+http://oqab.life:8080/3204/3204/100
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR GOLD HD" tvg-logo="" group-title="Life",IN: STAR GOLD HD
+http://oqab.life:8080/3204/3204/101
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors HD (4K)" tvg-logo="" group-title="Life",IN: Colors HD (4K)
+http://oqab.life:8080/3204/3204/102
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZeeCafe HD" tvg-logo="" group-title="Life",IN: ZeeCafe HD
+http://oqab.life:8080/3204/3204/103
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR BHARAT HD" tvg-logo="" group-title="Life",IN: STAR BHARAT HD
+http://oqab.life:8080/3204/3204/104
+#EXTINF:-1 tvg-id="" tvg-name="IN: & PRIVE HD" tvg-logo="" group-title="Life",IN: & PRIVE HD
+http://oqab.life:8080/3204/3204/105
+#EXTINF:-1 tvg-id="" tvg-name="IN:  Star Gold Select HD" tvg-logo="" group-title="Life",IN:  Star Gold Select HD
+http://oqab.life:8080/3204/3204/106
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star World Premiere FHD" tvg-logo="" group-title="Life",IN: Star World Premiere FHD
+http://oqab.life:8080/3204/3204/107
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR MOVIES SELECT FHD" tvg-logo="" group-title="Life",IN: STAR MOVIES SELECT FHD
+http://oqab.life:8080/3204/3204/108
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLOR FHD" tvg-logo="" group-title="Life",IN: COLOR FHD
+http://oqab.life:8080/3204/3204/109
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TV FHD" tvg-logo="http://live.yimp.cc:7779/get.php?username=kUzcKcSjYt&password=IZ7IJTQ9c6&type=m3u&output=mpegts" group-title="Life",IN: ZEE TV FHD
+http://oqab.life:8080/3204/3204/110
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR PLUS FHD" tvg-logo="" group-title="Life",IN: STAR PLUS FHD
+http://oqab.life:8080/3204/3204/111
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TV HD" tvg-logo="" group-title="Life",IN: SONY TV HD
+http://oqab.life:8080/3204/3204/112
+#EXTINF:-1 tvg-id="" tvg-name="IN:  Zee Cinema HD" tvg-logo="https://img.favpng.com/22/7/13/zee-cinema-zee-tv-high-definition-television-zee-entertainment-enterprises-png-favpng-KHDwBVhTwzz18Sh6EeZGTisrV.jpg" group-title="Life",IN:  Zee Cinema HD
+http://oqab.life:8080/3204/3204/113
+#EXTINF:-1 tvg-id="" tvg-name="IN:  & Pictures HD" tvg-logo="" group-title="Life",IN:  & Pictures HD
+http://oqab.life:8080/3204/3204/114
+#EXTINF:-1 tvg-id="" tvg-name="IN:  & TV HD" tvg-logo="" group-title="Life",IN:  & TV HD
+http://oqab.life:8080/3204/3204/115
+#EXTINF:-1 tvg-id="" tvg-name="IN: & Flix HD" tvg-logo="" group-title="Life",IN: & Flix HD
+http://oqab.life:8080/3204/3204/116
+#EXTINF:-1 tvg-id="" tvg-name="IN: cineplex (4K)" tvg-logo="" group-title="Life",IN: cineplex (4K)
+http://oqab.life:8080/3204/3204/117
+#EXTINF:-1 tvg-id="" tvg-name="IN:  Star_World_HD" tvg-logo="" group-title="Life",IN:  Star_World_HD
+http://oqab.life:8080/3204/3204/118
+#EXTINF:-1 tvg-id="" tvg-name="IN:  Star_Movies_HD" tvg-logo="" group-title="Life",IN:  Star_Movies_HD
+http://oqab.life:8080/3204/3204/119
+#EXTINF:-1 tvg-id="" tvg-name="IN: IN: BOLLYWOOD PREMIER FHD" tvg-logo="" group-title="Life",IN: IN: BOLLYWOOD PREMIER FHD
+http://oqab.life:8080/3204/3204/120
+#EXTINF:-1 tvg-id="" tvg-name="IN: BOLLYWOOD HD" tvg-logo="" group-title="Life",IN: BOLLYWOOD HD
+http://oqab.life:8080/3204/3204/121
