@@ -13,19 +13,19 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?checkedby:iptvcat.c
 #EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-Q3MsZEvKgnc/YP1NmkhSRBI/AAAAAAAAAoQ/_pAjmCYjb0It9qljvEHkivQGDDwQeyVTwCLcBGAsYHQ/s200/images%2B%252819%2529.jpeg" group-title="Hindi Movies",MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:iptvcat.com
 #EXTINF:-0 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",Star Gold HD
-http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="Hindi Movies",Star Gold 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-112 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV Action
-http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+http://103.153.39.34:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Hindi Movies",Colors Cineplex HD
-http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="Hindi Movies",Zee Cinema 4K
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/103620.ts
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold HD 4K" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",Star Gold HD 4K
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/56313.ts-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex 4K" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Hindi Movies",Colors Cineplex 4K
-http://84.17.41.7:80/Rishtey_Cineplex_IND/mono.m3u8
+http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
 
 ########################################## Music ######################################################
 
@@ -33,10 +33,10 @@ http://84.17.41.7:80/Rishtey_Cineplex_IND/mono.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",MTV HD+
-http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",MTV India
+https://d3t60pmzggqymi.cloudfront.net/MTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Beats HD IN" tvg-logo="https://assets.rstream.me/images/j/kJJCWyggSO.png" group-title="Music",MTV BEATS HD
-http://rv.flysat.live:80/307221135135/307221135135/83649
+http://rv.flysat.live:80/307211765061/307211765061/83649
 #EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599202s.png" group-title="Music",MUSIC INDIA
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="https://static.epg.best/in/Zing.in.png" group-title="Music",ZING
@@ -164,7 +164,7 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/liv
 #EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24X7 (480p)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="Zee.News.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png" group-title="News",Zee News
-http://rv.flysat.live/307211552112/307211552112/83625
+http://rv.flysat.live/307211765061/307211765061/83625
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/80vwZaO.png" group-title="News",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",NEWS 24
@@ -215,9 +215,9 @@ http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/18805
 ########################################## Entertainment ######################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="Entertainment",STAR PLUS HD
-http://rv.imax.re:80/1392568258/5959561692/83709
+http://rv.flysat.live:80/307211765061/307211765061/83709
 #EXTINF:-1 tvg-id="" tvg-name="Star Bharat HD" tvg-logo="https://assets.rstream.me/images/h/sIwoBqiEao.jpg" group-title="Entertainment",STAR BHARAT HD
-http://rv.imax.re:80/1392568258/5959561692/83712
+http://rv.flysat.live:80/307211765061/307211765061/83712
 #EXTINF:-1 tvg-id="" tvg-name="SONY 4K" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SONY 4K
 http://84.17.41.7/SONYPIXHD-Hin/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee TV 4K New" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV 4K New
