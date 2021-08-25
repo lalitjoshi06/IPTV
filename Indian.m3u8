@@ -204,13 +204,13 @@ http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://dmtn.tv:8080/images/f1395218a06b6639a2d935c0cfd36298.png" group-title="Sports",STAR SPORTS 2 HD
 http://103.81.104.118/hls/stream16.m3u8
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten1in.jpg" group-title="Sports",Sony Ten 1 HD IN
-http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10168
+http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten2in.jpg" group-title="Sports",Sony Ten 2 HD IN
-http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10170
+http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="Sony Ten 3 IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten3in.jpg" group-title="Sports",Sony Ten 3 IN
-http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/10169
+http://173.199.120.51/hls/ten2.m3u8
 #EXTINF:-1 tvg-id="SonySIX.in" tvg-name="Sony Six HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonysixin.jpg" group-title="Sports",Sony Six HD IN
-http://tv.perfectiptv.tvip.xyz:80/bM66GwuxlC/6Ue0ez2704/18805
+http://103.81.104.118/hls/stream10.m3u8
 
 ########################################## Entertainment ######################################################
 
@@ -228,6 +228,9 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?t
 http://tv.zaintv.net:80/Davidemmanuel/D477376480/56313
 
 ########################################## Pluto-kids ######################################################
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/78616
 
 #EXTINF:-1 channel-id="3796" radio="false" tvg-id="5ad8d54be738977e2c310940" tvg-logo="https://images.pluto.tv/channels/5ad8d54be738977e2c310940/colorLogoPNG.png" tvg-chno="1" group-title="Pluto - Kids",Pluto TV Kids
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d54be738977e2c310940/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1017&deviceId=5ad8d54be738977e2c310940&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
