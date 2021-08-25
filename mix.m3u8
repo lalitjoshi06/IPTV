@@ -1744,3 +1744,262 @@ http://hottest.fit:8080/itzik/itzik3/34174
 http://hottest.fit:8080/itzik/itzik3/34175
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="hottest",ZOOM TV
 http://hottest.fit:8080/itzik/itzik3/34176
+
+#EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="Aaj Tak HD" tvg-logo="" group-title="aple",Aaj Tak HD
+http://appleiptv.com:25461/0357/0357/42936
+#EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="Delhi AajTak" tvg-logo="" group-title="aple",Delhi AajTak
+http://appleiptv.com:25461/0357/0357/43073
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/60px-Sony_MAX_logo.svg.png" group-title="aple",Sony Max
+http://appleiptv.com:25461/0357/0357/42983
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Sony Max 2" tvg-logo="https://pbs.twimg.com/profile_images/1100401708075634688/ynyC87uC_400x400.png" group-title="aple",Sony Max 2
+http://appleiptv.com:25461/0357/0357/42997
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="" group-title="aple",Sony Max HD
+http://appleiptv.com:25461/0357/0357/42887
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD" tvg-logo="" group-title="aple",Sony Sab HD
+http://appleiptv.com:25461/0357/0357/42880
+#EXTINF:-1 tvg-id="sonysab.in" tvg-name="Sony Sab" tvg-logo="https://pbs.twimg.com/profile_images/1049253520065478657/aFrOrobQ_400x400.jpg" group-title="aple",Sony Sab
+http://appleiptv.com:25461/0357/0357/42977
+#EXTINF:-1 tvg-id="sonysix.in" tvg-name="Sony Six India HD" tvg-logo="" group-title="aple",Sony Six India HD
+http://appleiptv.com:25461/0357/0357/42943
+#EXTINF:-1 tvg-id="tataskyfitness.in" tvg-name="Sony Espn India HD" tvg-logo="" group-title="aple",Sony Espn India HD
+http://appleiptv.com:25461/0357/0357/42944
+#EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix India HD" tvg-logo="" group-title="aple",Sony Pix India HD
+http://appleiptv.com:25461/0357/0357/42966
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="Sony TV India HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Sony_LIV2017.jpg" group-title="aple",Sony TV India HD
+http://appleiptv.com:25461/0357/0357/42877
+#EXTINF:-1 tvg-id="sony.in" tvg-name="Sony Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/220px-Sony_Channel_Logo.png" group-title="aple",Sony Tv
+http://appleiptv.com:25461/0357/0357/42971
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="Sony BBC Earth HD" tvg-logo="" group-title="aple",Sony BBC Earth HD
+http://appleiptv.com:25461/0357/0357/42888
+#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal" tvg-logo="" group-title="aple",Sony Pal
+http://appleiptv.com:25461/0357/0357/42978
+#EXTINF:-1 tvg-id="nationalgeographicchannel.in" tvg-name="National Geograhic HD" tvg-logo="" group-title="aple",National Geograhic HD
+http://appleiptv.com:25461/0357/0357/42889
+#EXTINF:-1 tvg-id="historytv18.in" tvg-name="History Tv HD" tvg-logo="" group-title="aple",History Tv HD
+http://appleiptv.com:25461/0357/0357/42890
+#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="Travel Xp HD" tvg-logo="" group-title="aple",Travel Xp HD
+http://appleiptv.com:25461/0357/0357/42891
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="Discovery World HD" tvg-logo="" group-title="aple",Discovery World HD
+http://appleiptv.com:25461/0357/0357/42892
+#EXTINF:-1 tvg-id="tataskybollywoodpremierehd.in" tvg-name="Bollywood Dilse HD" tvg-logo="" group-title="aple",Bollywood Dilse HD
+http://appleiptv.com:25461/0357/0357/42894
+#EXTINF:-1 tvg-id="tataskybollywoodpremiere.in" tvg-name="Bollywood Bol Haddipa HD" tvg-logo="" group-title="aple",Bollywood Bol Haddipa HD
+http://appleiptv.com:25461/0357/0357/42895
+#EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="Bollywood Kadak Hits HD" tvg-logo="" group-title="aple",Bollywood Kadak Hits HD
+http://appleiptv.com:25461/0357/0357/42897
+#EXTINF:-1 tvg-id="zetcbollywood.in" tvg-name="Bollywood Masala HD" tvg-logo="" group-title="aple",Bollywood Masala HD
+http://appleiptv.com:25461/0357/0357/42898
+#EXTINF:-1 tvg-id="tataskybollywoodpremiere.in" tvg-name="Bollywood Premier HD" tvg-logo="" group-title="aple",Bollywood Premier HD
+http://appleiptv.com:25461/0357/0357/42899
+#EXTINF:-1 tvg-id="tataskybollywoodpremiere.in" tvg-name="Bollywood Astra Box Office HD" tvg-logo="" group-title="aple",Bollywood Astra Box Office HD
+http://appleiptv.com:25461/0357/0357/42931
+#EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="Zee Bollywood" tvg-logo="" group-title="aple",Zee Bollywood
+http://appleiptv.com:25461/0357/0357/42995
+#EXTINF:-1 tvg-id="republictv.in" tvg-name="Republic Tv News" tvg-logo="" group-title="aple",Republic Tv News
+http://appleiptv.com:25461/0357/0357/42985
+#EXTINF:-1 tvg-id="wion.in" tvg-name="Wion News" tvg-logo="" group-title="aple",Wion News
+http://appleiptv.com:25461/0357/0357/42988
+#EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="BBC World News" tvg-logo="" group-title="aple",BBC World News
+http://appleiptv.com:25461/0357/0357/42990
+#EXTINF:-1 tvg-id="ndtvindia.in" tvg-name="NDTV News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/200px-NDTV_logo.svg.png" group-title="aple",NDTV News
+http://appleiptv.com:25461/0357/0357/43065
+#EXTINF:-1 tvg-id="ndtv24x7.in" tvg-name="NDTV News" tvg-logo="" group-title="aple",NDTV News
+http://appleiptv.com:25461/0357/0357/43066
+#EXTINF:-1 tvg-id="abpnews.in" tvg-name="Abp News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/ABP_News_logo.png/100px-ABP_News_logo.png" group-title="aple",Abp News
+http://appleiptv.com:25461/0357/0357/43068
+#EXTINF:-1 tvg-id="tez.in" tvg-name="Tez News" tvg-logo="" group-title="aple",Tez News
+http://appleiptv.com:25461/0357/0357/43071
+#EXTINF:-1 tvg-id="newsnation.in" tvg-name="News Nation" tvg-logo="" group-title="aple",News Nation
+http://appleiptv.com:25461/0357/0357/43075
+#EXTINF:-1 tvg-id="mhonenews.in" tvg-name="Mh 1 News India" tvg-logo="https://mplan.media/wp-content/uploads/2018/03/mh1news.png" group-title="aple",Mh 1 News India
+http://appleiptv.com:25461/0357/0357/43077
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="Zee News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Zee_News.png" group-title="aple",Zee News
+http://appleiptv.com:25461/0357/0357/43067
+#EXTINF:-1 tvg-id="moviesnow.in" tvg-name="Movies Now India HD" tvg-logo="" group-title="aple",Movies Now India HD
+http://appleiptv.com:25461/0357/0357/42955
+#EXTINF:-1 tvg-id="housefullmovies.in" tvg-name="Housefull Movies" tvg-logo="" group-title="aple",Housefull Movies
+http://appleiptv.com:25461/0357/0357/42934
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="" group-title="aple",Star Gold Select HD
+http://appleiptv.com:25461/0357/0357/42883
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg" group-title="aple",Star Gold HD
+http://appleiptv.com:25461/0357/0357/42884
+#EXTINF:-1 tvg-id="starbharat.in" tvg-name="Star Bharat" tvg-logo="" group-title="aple",Star Bharat
+http://appleiptv.com:25461/0357/0357/42974
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="" group-title="aple",Star Plus HD
+http://appleiptv.com:25461/0357/0357/42879
+#EXTINF:-1 tvg-id="starworld.in" tvg-name="Star World HD." tvg-logo="" group-title="aple",Star World HD.
+http://appleiptv.com:25461/0357/0357/42956
+#EXTINF:-1 tvg-id="starworld.in" tvg-name="Star World Premiere HD" tvg-logo="" group-title="aple",Star World Premiere HD
+http://appleiptv.com:25461/0357/0357/42965
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies India HD" tvg-logo="" group-title="aple",Star Movies India HD
+http://appleiptv.com:25461/0357/0357/42967
+#EXTINF:-1 tvg-id="starmovies.in" tvg-name="Star Movies Select HD" tvg-logo="" group-title="aple",Star Movies Select HD
+http://appleiptv.com:25461/0357/0357/42968
+#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="Zee Etc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/B4umovies.jpg" group-title="aple",Zee Etc
+http://appleiptv.com:25461/0357/0357/42998
+#EXTINF:-1 tvg-id="zeetv.in" tvg-name="Zee Tv India HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/180px-Zee_TV-2018.png" group-title="aple",Zee Tv India HD
+http://appleiptv.com:25461/0357/0357/42876
+#EXTINF:-1 tvg-id="zeetv.in" tvg-name="Zee TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/180px-Zee_TV-2018.png" group-title="aple",Zee TV
+http://appleiptv.com:25461/0357/0357/42970
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="Zee Cinema HD" tvg-logo="" group-title="aple",Zee Cinema HD
+http://appleiptv.com:25461/0357/0357/42886
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="Zee cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Zee_Cinema_New_Logo.png/200px-Zee_Cinema_New_Logo.png" group-title="aple",Zee cinema
+http://appleiptv.com:25461/0357/0357/42981
+#EXTINF:-1 tvg-id="zeecafe.in" tvg-name="Zee Cafe HD" tvg-logo="" group-title="aple",Zee Cafe HD
+http://appleiptv.com:25461/0357/0357/42962
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="" group-title="aple",Zee Anmol Cinema
+http://appleiptv.com:25461/0357/0357/42993
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol" tvg-logo="" group-title="aple",Zee Anmol
+http://appleiptv.com:25461/0357/0357/42979
+#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action" tvg-logo="" group-title="aple",Zee Action
+http://appleiptv.com:25461/0357/0357/42994
+#EXTINF:-1 tvg-id="zeetvhdplus1.in" tvg-name="Zee World" tvg-logo="https://www.dw.com/image/19009454_303.jpg" group-title="aple",Zee World
+http://appleiptv.com:25461/0357/0357/42935
+#EXTINF:-1 tvg-id="andtv.in" tvg-name="& Tv HD" tvg-logo="" group-title="aple",& Tv HD
+http://appleiptv.com:25461/0357/0357/42881
+#EXTINF:-1 tvg-id="andpictures.in" tvg-name="& Pictures HD" tvg-logo="" group-title="aple",& Pictures HD
+http://appleiptv.com:25461/0357/0357/42882
+#EXTINF:-1 tvg-id="mtvbeats.in" tvg-name="Mtv Beats HD" tvg-logo="" group-title="aple",Mtv Beats HD
+http://appleiptv.com:25461/0357/0357/42885
+#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic HD" tvg-logo="" group-title="aple",Epic HD
+http://appleiptv.com:25461/0357/0357/42893
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors TV HD" tvg-logo="" group-title="aple",Colors TV HD
+http://appleiptv.com:25461/0357/0357/42900
+#EXTINF:-1 tvg-id="colors.in" tvg-name="Color TV HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/colors_bangla.png" group-title="aple",Color TV HD
+http://appleiptv.com:25461/0357/0357/42972
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="Colors Rishtey Asia" tvg-logo="" group-title="aple",Colors Rishtey Asia
+http://appleiptv.com:25461/0357/0357/43037
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="Colors Rishtey Europe" tvg-logo="https://pbs.twimg.com/profile_images/1107539116072161280/FDsDfyO4_400x400.png" group-title="aple",Colors Rishtey Europe
+http://appleiptv.com:25461/0357/0357/42976
+#EXTINF:-1 tvg-id="colorscineplex.in" tvg-name="Colors CinePlex" tvg-logo="https://www.viacom18.com/images/uploads/5ca20f401caacchannel-cineplex.png" group-title="aple",Colors CinePlex
+http://appleiptv.com:25461/0357/0357/42982
+#EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="Colors infinity India HD" tvg-logo="" group-title="aple",Colors infinity India HD
+http://appleiptv.com:25461/0357/0357/42958
+#EXTINF:-1 tvg-id="colorscineplex.in" tvg-name="Cineplex  HD" tvg-logo="" group-title="aple",Cineplex  HD
+http://appleiptv.com:25461/0357/0357/42932
+#EXTINF:-1 tvg-id="ddnational.in" tvg-name="DD NATIONAL TV" tvg-logo="" group-title="aple",DD NATIONAL TV
+http://appleiptv.com:25461/0357/0357/42933
+#EXTINF:-1 tvg-id="sonyten1.in" tvg-name="Ten 1 India HD" tvg-logo="" group-title="aple",Ten 1 India HD
+http://appleiptv.com:25461/0357/0357/42939
+#EXTINF:-1 tvg-id="sonyten2.in" tvg-name="Ten 2 India HD" tvg-logo="" group-title="aple",Ten 2 India HD
+http://appleiptv.com:25461/0357/0357/42940
+#EXTINF:-1 tvg-id="sonyten3.in" tvg-name="Ten 3 India HD" tvg-logo="" group-title="aple",Ten 3 India HD
+http://appleiptv.com:25461/0357/0357/42941
+#EXTINF:-1 tvg-id="andpictures.in" tvg-name="& Prive India HD" tvg-logo="" group-title="aple",& Prive India HD
+http://appleiptv.com:25461/0357/0357/42961
+#EXTINF:-1 tvg-id="andflix.in" tvg-name="& Flix India HD" tvg-logo="" group-title="aple",& Flix India HD
+http://appleiptv.com:25461/0357/0357/42960
+#EXTINF:-1 tvg-id="hbo.in" tvg-name="Hbo India HD" tvg-logo="" group-title="aple",Hbo India HD
+http://appleiptv.com:25461/0357/0357/42959
+#EXTINF:-1 tvg-id="romedynow.in" tvg-name="Romedy Now India HD" tvg-logo="" group-title="aple",Romedy Now India HD
+http://appleiptv.com:25461/0357/0357/42954
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN✦: Zee Anmol Cinema" tvg-logo="" group-title="aple",IN✦: Zee Anmol Cinema
+http://appleiptv.com:25461/0357/0357/42963
+#EXTINF:-1 tvg-id="starpremierehd.in" tvg-name="| Premium Channels |" tvg-logo="" group-title="aple",| Premium Channels |
+http://appleiptv.com:25461/0357/0357/42969
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AndTV_Logo.jpg/160px-AndTV_Logo.jpg" group-title="aple",Star Gold Select HD
+http://appleiptv.com:25461/0357/0357/42975
+#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="B4U Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/B4U_Movies.png/160px-B4U_Movies.png" group-title="aple",B4U Movies
+http://appleiptv.com:25461/0357/0357/42987
+#EXTINF:-1 tvg-id="republictv.in" tvg-name="Republic Bharat" tvg-logo="" group-title="aple",Republic Bharat
+http://appleiptv.com:25461/0357/0357/42989
+#EXTINF:-1 tvg-id="andpictures.in" tvg-name="& Pictures" tvg-logo="" group-title="aple",& Pictures
+http://appleiptv.com:25461/0357/0357/42991
+#EXTINF:-1 tvg-id="bflixmovies.in" tvg-name="Bflix" tvg-logo="" group-title="aple",Bflix
+http://appleiptv.com:25461/0357/0357/42992
+#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4u Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/B4U_Movies.png/160px-B4U_Movies.png" group-title="aple",B4u Music
+http://appleiptv.com:25461/0357/0357/43000
+#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="B4u Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/B4U_Movies.png/160px-B4U_Movies.png" group-title="aple",B4u Movies
+http://appleiptv.com:25461/0357/0357/42986
+#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4u Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/B4umusic.PNG/220px-B4umusic.PNG" group-title="aple",B4u Plus
+http://appleiptv.com:25461/0357/0357/42996
+#EXTINF:-1 tvg-id="mhoneshraddha.in" tvg-name="Mh One Shradha" tvg-logo="" group-title="aple",Mh One Shradha
+http://appleiptv.com:25461/0357/0357/43019
+#EXTINF:-1 tvg-id="mhoneshraddha.in" tvg-name="Mh One Music" tvg-logo="" group-title="aple",Mh One Music
+http://appleiptv.com:25461/0357/0357/43020
+#EXTINF:-1 tvg-id="zing.in" tvg-name="Zing Music" tvg-logo="https://i.ytimg.com/vi/GTNITDHcvuA/maxresdefault.jpg" group-title="aple",Zing Music
+http://appleiptv.com:25461/0357/0357/42999
+#EXTINF:-1 tvg-id="indiatoday.in" tvg-name="India Today TV" tvg-logo="" group-title="aple",India Today TV
+http://appleiptv.com:25461/0357/0357/43072
+#EXTINF:-1 tvg-id="tv9.in" tvg-name="Tv9 India" tvg-logo="" group-title="aple",Tv9 India
+http://appleiptv.com:25461/0357/0357/43069
+#EXTINF:-1 tvg-id="wowmusic.in" tvg-name="Music" tvg-logo="" group-title="aple",Music
+http://appleiptv.com:25461/0357/0357/43001
+#EXTINF:-1 tvg-id="" tvg-name="Masti Music" tvg-logo="" group-title="aple",Masti Music
+http://appleiptv.com:25461/0357/0357/43004
+#EXTINF:-1 tvg-id="tataskyfitness.in" tvg-name="9XM Music" tvg-logo="" group-title="aple",9XM Music
+http://appleiptv.com:25461/0357/0357/43005
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9X Jalwa" tvg-logo="" group-title="aple",9X Jalwa
+http://appleiptv.com:25461/0357/0357/43006
+#EXTINF:-1 tvg-id="wowmusic.in" tvg-name="Brit Asia" tvg-logo="https://britasia.tv/wp-content/uploads/2017/06/balogo.png" group-title="aple",Brit Asia
+http://appleiptv.com:25461/0357/0357/43002
+#EXTINF:-1 tvg-id="mtv.in" tvg-name="Mtv" tvg-logo="" group-title="aple",Mtv
+http://appleiptv.com:25461/0357/0357/43003
+#EXTINF:-1 tvg-id="wion.in" tvg-name="Wion News" tvg-logo="" group-title="aple",Wion News
+http://appleiptv.com:25461/0357/0357/43074
+#EXTINF:-1 tvg-id="timesnowhd.in" tvg-name="Times Now" tvg-logo="" group-title="aple",Times Now
+http://appleiptv.com:25461/0357/0357/43076
+#EXTINF:-1 tvg-id="tlc.in" tvg-name="Tlc" tvg-logo="" group-title="aple",Tlc
+http://appleiptv.com:25461/0357/0357/43091
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="Discovery HD" tvg-logo="" group-title="aple",Discovery HD
+http://appleiptv.com:25461/0357/0357/43092
+#EXTINF:-1 tvg-id="zee24kalak.in" tvg-name="Lakshya TV" tvg-logo="https://i.pinimg.com/564x/3e/a3/62/3ea3627a0442e44b9e805b15ec688990.jpg" group-title="aple",Lakshya TV
+http://appleiptv.com:25461/0357/0357/43298
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="Zoom" tvg-logo="https://pbs.twimg.com/profile_images/1124199029196247040/TFllM3jx.png" group-title="aple",Zoom
+http://appleiptv.com:25461/0357/0357/43299
+#EXTINF:-1 tvg-id="globaldurham.ca" tvg-name="Hamdard Tv Toronto" tvg-logo="" group-title="aple",Hamdard Tv Toronto
+http://appleiptv.com:25461/0357/0357/43023
+#EXTINF:-1 tvg-id="safaritv.in" tvg-name="Fateh TV India" tvg-logo="" group-title="aple",Fateh TV India
+http://appleiptv.com:25461/0357/0357/43022
+#EXTINF:-1 tvg-id="" tvg-name="Dip Channel" tvg-logo="" group-title="aple",Dip Channel
+http://appleiptv.com:25461/0357/0357/43016
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="ZEE news" tvg-logo="" group-title="aple",ZEE news
+http://appleiptv.com:25461/0357/0357/43013
+#EXTINF:-1 tvg-id="" tvg-name="Kids TV - Nursery" tvg-logo="" group-title="aple",Kids TV - Nursery
+http://appleiptv.com:25461/0357/0357/43008
+#EXTINF:-1 tvg-id="e24.in" tvg-name="E 24" tvg-logo="" group-title="aple",E 24
+http://appleiptv.com:25461/0357/0357/43007
+#EXTINF:-1 tvg-id="starplushdplus1.in" tvg-name="STAR PLUS HD" tvg-logo="https://i.imgur.com/KsVsGOF.png?1" group-title="aple",STAR PLUS HD
+http://appleiptv.com:25461/0357/0357/81890
+#EXTINF:-1 tvg-id="stargoldhdplus1.in" tvg-name="STAR GOLD HD" tvg-logo="https://i.imgur.com/2gcSKtr.png" group-title="aple",STAR GOLD HD
+http://appleiptv.com:25461/0357/0357/81891
+#EXTINF:-1 tvg-id="starbharat.in" tvg-name="STAR BHARAT" tvg-logo="https://i.imgur.com/wpjqY0C.jpg?1" group-title="aple",STAR BHARAT
+http://appleiptv.com:25461/0357/0357/81892
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="SONY TV HD INDIA" tvg-logo="https://i.imgur.com/xiLMO50.png" group-title="aple",SONY TV HD INDIA
+http://appleiptv.com:25461/0357/0357/81893
+#EXTINF:-1 tvg-id="sony.in" tvg-name="IN: SONY TV HD" tvg-logo="https://i.imgur.com/E8q2pA6.jpg?1" group-title="aple",IN: SONY TV HD
+http://appleiptv.com:25461/0357/0357/81894
+#EXTINF:-1 tvg-id="asianet.in" tvg-name="ASIANET HD" tvg-logo="https://i.imgur.com/2n04TZl.jpg?1" group-title="aple",ASIANET HD
+http://appleiptv.com:25461/0357/0357/81895
+#EXTINF:-1 tvg-id="asianetnews.in" tvg-name="Asianet News" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="aple",Asianet News
+http://appleiptv.com:25461/0357/0357/81896
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="COLORS VIP" tvg-logo="https://i.imgur.com/anpQT8q.png" group-title="aple",COLORS VIP
+http://appleiptv.com:25461/0357/0357/81897
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="ZEE TV" tvg-logo="https://i.imgur.com/hbxOYM6.png?1" group-title="aple",ZEE TV
+http://appleiptv.com:25461/0357/0357/81898
+#EXTINF:-1 tvg-id="zeetvhdplus1.in" tvg-name="ZEE CINEMA HD INDIA" tvg-logo="https://i.imgur.com/CFTBDNU.png?1" group-title="aple",ZEE CINEMA HD INDIA
+http://appleiptv.com:25461/0357/0357/81899
+#EXTINF:-1 tvg-id="zeetv.in" tvg-name="ZEE CINEMA" tvg-logo="https://i.imgur.com/CFTBDNU.png?1" group-title="aple",ZEE CINEMA
+http://appleiptv.com:25461/0357/0357/81900
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA HD" tvg-logo="https://i.imgur.com/CFTBDNU.png?1" group-title="aple",ZEE CINEMA HD
+http://appleiptv.com:25461/0357/0357/81901
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="ZEE TV HD INDIA" tvg-logo="https://i.imgur.com/hbxOYM6.png?1" group-title="aple",ZEE TV HD INDIA
+http://appleiptv.com:25461/0357/0357/81902
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="Willo Sports India FHD" tvg-logo="" group-title="Cricket",Willo Sports India FHD
+http://appleiptv.com:25461/0357/0357/42952
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 India FHD" tvg-logo="" group-title="Cricket",Star Sports 2 India FHD
+http://appleiptv.com:25461/0357/0357/42951
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="Willow Cricket India" tvg-logo="" group-title="Cricket",Willow Cricket India
+http://appleiptv.com:25461/0357/0357/42953
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 India FHD" tvg-logo="" group-title="Cricket",Star Sports 1 India FHD
+http://appleiptv.com:25461/0357/0357/42950
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sport Select 2 India HD" tvg-logo="" group-title="Cricket",Star Sport Select 2 India HD
+http://appleiptv.com:25461/0357/0357/42949
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sport Select 1 HD" tvg-logo="" group-title="Cricket",Star Sport Select 1 HD
+http://appleiptv.com:25461/0357/0357/42948
+#EXTINF:-1 tvg-id="starsportsselect1.in" tvg-name="Star Sports India HD" tvg-logo="" group-title="Cricket",Star Sports India HD
+http://appleiptv.com:25461/0357/0357/42947
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 India HD" tvg-logo="" group-title="Cricket",Star Sports 1 India HD
+http://appleiptv.com:25461/0357/0357/42945
+#EXTINF:-1 tvg-id="tencricket.in" tvg-name="Ten Sports" tvg-logo="" group-title="Cricket",Ten Sports
+http://appleiptv.com:25461/0357/0357/42942
