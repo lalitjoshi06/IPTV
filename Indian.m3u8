@@ -169,11 +169,11 @@ https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/in
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="EDUCATION",National Geographic HD Hindi
 http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="EDUCATION",NAT GEO Wild
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="EDUCATION",NAT GEO Wild
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIEnN4Ti5HbN7gcVm4vyfuH_6i9X89vYqL4-p_8VGH1S4wkVoA-xN-qXKlAu8Am24MI&usqp=CAU" group-title="EDUCATION",NAT GEO WILD HD 4K
 https://www.nre.agency/miniproxy.php/http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-B3P6m94cx3A/YPlfzqeTTwI/AAAAAAAAAis/sE99jUtbw58QUg8TU67wURdpDbFsjXC6QCLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.jpeg" group-title="EDUCATION",DISCOVERY
+#EXTINF:-1 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-B3P6m94cx3A/YPlfzqeTTwI/AAAAAAAAAis/sE99jUtbw58QUg8TU67wURdpDbFsjXC6QCLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.jpeg" group-title="EDUCATION",DISCOVERY
 http://pelicanhosting.xyz:80/gfqonnad/7685216494/456813
 #EXTINF:-1 tvg-id="disc.sience" tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/G71vtRQ/disscience.png" group-title="EDUCATION",Discovery Science
 http://foctv.xyz:25510/Zulhairie/BB2064/99
