@@ -27,7 +27,7 @@ http://143.244.60.10/HINDI__COLORS_CINEPLEX_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-country="IN" tvg-url="" group-title="English Movies",MOVIES NOW HD Watch India
 http://rv.flysat.live/307211311210/307211311210/83604
 
-########################################## Music ######################################################
+MUSIC
 
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.com
@@ -41,6 +41,8 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6219
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599202s.png" group-title="Music",MUSIC INDIA
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+
+ENGLISH MOVIES
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122" group-title="English Movies",HBOSignature
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
