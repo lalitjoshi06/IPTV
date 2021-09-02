@@ -34,7 +34,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:i
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",MTV India
-http://89.187.182.181:9090/SM_FHD-HINDI-MTV/tracks-v1a1/index.m3u8
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6219
 #EXTINF:-1 tvg-id="" tvg-name="MTV Beats HD IN" tvg-logo="https://assets.rstream.me/images/j/kJJCWyggSO.png" group-title="Music",MTV BEATS HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599202s.png" group-title="Music",MUSIC INDIA
