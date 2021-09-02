@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
 
-MOVIES
-
 #EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-iSH8Wk-Uz7U/YOv6EgndZwI/AAAAAAAAAXQ/CRu7AAz_X3I8Wab7bXNiPenmzcuai7-qACLcBGAsYHQ/s200/images%2B%252813%2529%25281%2529.jpeg" group-title="Hindi Movies",BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/cMJVuIr.jpg" group-title="Hindi Movies",IN | Shemaroo Bollywood Classic,Shemaroo Bollywood Classic
@@ -39,7 +37,6 @@ https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599202s.png" group-title="Music",MUSIC INDIA
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
-ENGLISH MOVIES
 
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122" group-title="English Movies",HBOSignature
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
