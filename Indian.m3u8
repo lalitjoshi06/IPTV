@@ -9,7 +9,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?checkedby:iptvcat.c
 #EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-Q3MsZEvKgnc/YP1NmkhSRBI/AAAAAAAAAoQ/_pAjmCYjb0It9qljvEHkivQGDDwQeyVTwCLcBGAsYHQ/s200/images%2B%252819%2529.jpeg" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",And Pictures HD
-http://103.205.133.18/hls/andpicture.m3u8
+#https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
+https://zee5-rds.herokuapp.com/?c=0-9-tvpictureshd
 #EXTINF:-0 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Star Gold HD
 #http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
 http://93.152.174.144:4000/play/stargold/index.m3u8
@@ -18,7 +19,7 @@ http://93.152.174.144:4000/play/stargold/index.m3u8
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
 #EXTINF:-112 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",UTV Action
 #http://103.153.39.34:8000/play/a06o/index.m3u8
-http://rv.therevenge.co:80/NIX3BYUPEX/auwegUgGmR/83632
+http://rv.therevenge.co:80/6548085766/2988521818/83632
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Colors Cineplex HD
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Zee Cinema HD
@@ -35,7 +36,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="📺 Music 📺",MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="📺 Music 📺",MTV India
-http://indo51.gcdn.co/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
+http://pakiptv.top:8880/123123/123123/20451
 #EXTINF:-1 tvg-id="" tvg-name="MTV Beats HD IN" tvg-logo="https://assets.rstream.me/images/j/kJJCWyggSO.png" group-title="📺 Music 📺",MTV BEATS HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599202s.png" group-title="📺 Music 📺",MUSIC INDIA
@@ -154,13 +155,13 @@ https://m-c02-j2apps.s.loris.llnwd.net/hls/1062.NewsNation.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="📺 DOCUMENTRY 📺",National Geographic HD
 http://rv.therevenge.co:80/6548085766/2988521818/83645
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="📺 DOCUMENTRY 📺",NAT GEO Wild
-http://rv.therevenge.co:80/6548085766/2988521818/83646
+http://www.luckonline.eu:80/MEQ6zQJdNS/zLnzsiSt9c/1637
 #EXTINF:-1 tvg-id="disc.sience" tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/G71vtRQ/disscience.png" group-title="📺 DOCUMENTRY 📺",Discovery Science HINDI
 https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-B3P6m94cx3A/YPlfzqeTTwI/AAAAAAAAAis/sE99jUtbw58QUg8TU67wURdpDbFsjXC6QCLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.jpeg" group-title="📺 DOCUMENTRY 📺",DISCOVERY HINDI
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="History TV 18 HD" tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="📺 DOCUMENTRY 📺", History TV 18 HD hindi
-http://appleiptv.com:25461/71026/71026/42890
+http://www.luckonline.eu:80/MEQ6zQJdNS/zLnzsiSt9c/1629
 
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="https://assets.rstream.me/images/h/OCsZipbCKK.jpg" group-title="📺 Sports 📺",STAR SPORTS 1 HINDI HD
