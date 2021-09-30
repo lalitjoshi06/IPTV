@@ -42,24 +42,26 @@ https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599202s.png" group-title="📺 Music 📺",MUSIC INDIA
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122" group-title="📺 English Movies 📺",HBOSignature
-http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",HBO Signature English
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="📺 English Movies 📺",FOX
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2120
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Fox Movies
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Fox Movies Link 2
-http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
+#http://103.195.239.138/foxmovies/mpegts
+http://185.236.229.21:9981/play/a039
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Star Hits
+http://qqtv.nl:8080/Bradley1/Bradley123/20281
 #EXTINF:-1 tvg-logo="https://foxactionMovies.foxMoviesasia.com/images/fam.png" group-title="📺 English Movies 📺",FOXActionMovies
-https://nonton.site:8443/rachman/rachman123/1478
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1478
 #EXTINF:-1 tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/fox_crime_asia_hd.gif" group-title="📺 English Movies 📺",FOXCRIME
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/21701
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png" group-title="📺 English Movies 📺",FOXLife
 http://appleiptv.com:25461/71026/71026/27400
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="📺 English Movies 📺",Star Movies HD
+#http://jupiter.bdcabletv.com/ENC-17/video.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Star Movies Select
-http://jupiter.bdcabletv.com/ENC-17/video.m3u8
+http://103.153.39.34:8000/play/a04g/index.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="📺 English Movies 📺",& PRIVE HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="& Flix HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="📺 English Movies 📺",& Flix HD
@@ -73,11 +75,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",HBO Link 2
 https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",HBO Other
-http://rv.flysat.live:80/307211765061/307211765061/79755
+http://rv.therevenge.co:80/6548085766/2988521818/79755
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",HBO Signature English
-https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Rakuten Action Movies
@@ -91,7 +91,8 @@ https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
 #EXTINF:-1 tvg-logo="" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Discover Films
-https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8
+#https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",HallMark 
 http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="📺 English Movies 📺",Pluto TV Action
@@ -176,6 +177,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 tvg-id="SonySIX.in" tvg-name="Sony Six HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonysixin.jpg" group-title="📺 Sports 📺",Sony Six HD IN
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus 4K" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="📺 Entertainment 📺",Star Plus 4k
 http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
