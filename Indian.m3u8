@@ -211,10 +211,10 @@ http://eurotv.vip:80/60/60/51678
 https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
 #EXTINF:-1 ch-id="SONIC" tvg-logo="https://1.bp.blogspot.com/-o8d-P5Yt6rg/YOrRBiFf7gI/AAAAAAAAAUE/r4Kms_g926A_3sGY08d-_fWA-7HQ6AZoQCLcBGAsYHQ/s200/Nickelodeon_Sonic_logo.png"  group-title="📺 KIDS 📺",SONIC
 #http://pkr.cinepex.tv:8278/sonichindikdin/playlist.m3u8
-http://jo123.biz/jweb/m3u8.php?c=sonic_Hindi&q=800&e=junk.m3u8
+http://jo123.biz/jweb/m3u8.php?c=sonic_Hindi&q=1200&e=junk.m3u8
 #EXTINF:-1 ch-id="POGO" tvg-logo="https://1.bp.blogspot.com/-0sJ65-yM264/YOrRLWZfXBI/AAAAAAAAAUM/tbLs61VZRUwJu1a_5Ry9K43Groe72M8BgCLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.jpeg"  group-title="📺 KIDS 📺",POGO
 #http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
-https://tvstream.space/jtv/xtrmmx.php?c=Pogo_Hindi&q=800&e=junk.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 ch-id="NICK" tvg-logo="https://1.bp.blogspot.com/-xTgySQS_-DU/YOrRW4qp51I/AAAAAAAAAUU/253fzyVw7LIBbSAO2-Pj40oGIfCE1MbZQCLcBGAsYHQ/s200/images%2B%25281%2529%25287%2529.png"  group-title="📺 KIDS 📺",NICK
 #http://pkr.cinepex.tv:8278/nickhindikdin/playlist.m3u8
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
