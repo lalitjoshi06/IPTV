@@ -30,7 +30,7 @@ http://103.153.39.34:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",MOVIES NOW HD Watch India
 http://appleiptv.com:25461/0357/0357/42955
 #EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="https://static.epg.best/in/Zing.in.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",ZING
-https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
+http://88.150.240.108/hls/zing.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="📺 Music 📺",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="📺 Music 📺",MH1 Music
@@ -64,11 +64,11 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Star Movies Select
 http://103.153.39.34:8000/play/a04g/index.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="📺 English Movies 📺",& PRIVE HD
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/124
 #EXTINF:-1 tvg-id="" tvg-name="& Flix HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="📺 English Movies 📺",& Flix HD
 http://221.120.204.4/HBO-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",And Flix Main
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/54
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="📺 English Movies 📺",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",HBO Link 1
@@ -86,14 +86,14 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",WB TV
 http://203.154.243.89:1205
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/11/12/zeeeeee.jpg?itok=CmIfTNh1" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Zee Cafe HD
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-zeecafehd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
 #EXTINF:-1 tvg-logo="" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Discover Films
 #https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8
 https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",HallMark 
-http://linea.cc:8000/test123/test123/23427.ts
+https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="📺 English Movies 📺",Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Comedy" tvg-logo="https://i.imgur.com/Pjs4lgs.png" group-title="📺 English Movies 📺",Pluto TV Comedy
@@ -149,7 +149,7 @@ https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/in
 #EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png"" group-title="📺News 📺",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="NEWS NATION" tvg-logo="https://static.epg.best/in/NewsNation.in.png" group-title="📺News 📺",NEWS NATION
-https://m-c02-j2apps.s.loris.llnwd.net/hls/1062.NewsNation.in_480p/index.m3u8
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/283
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="📺 DOCUMENTRY 📺",National Geographic HD
