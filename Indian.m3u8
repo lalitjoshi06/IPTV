@@ -28,9 +28,9 @@ http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Star Gold2 HD
 http://103.153.39.34:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",MOVIES NOW HD Watch India
-http://appleiptv.com:25461/0357/0357/42955
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/125
 #EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="https://static.epg.best/in/Zing.in.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",ZING
-http://88.150.240.108/hls/zing.m3u8
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/2854.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="📺 Music 📺",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="📺 Music 📺",MH1 Music
@@ -58,7 +58,7 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1478
 #EXTINF:-1 tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/fox_crime_asia_hd.gif" group-title="📺 English Movies 📺",FOX CRIME
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/21701
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png" group-title="📺 English Movies 📺",FOX Life
-http://appleiptv.com:25461/71026/71026/27400
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/126
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="📺 English Movies 📺",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Star Movies Select
@@ -161,7 +161,7 @@ https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-B3P6m94cx3A/YPlfzqeTTwI/AAAAAAAAAis/sE99jUtbw58QUg8TU67wURdpDbFsjXC6QCLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.jpeg" group-title="📺 DOCUMENTRY 📺",DISCOVERY HINDI
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="History TV 18 HD" tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="📺 DOCUMENTRY 📺", History TV 18 HD hindi
-http://appleiptv.com:25461/1819/1819/42890
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/116
 
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="https://assets.rstream.me/images/h/OCsZipbCKK.jpg" group-title="📺 Sports 📺",STAR SPORTS 1 HINDI HD
@@ -179,9 +179,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
 #EXTINF:-1  tvg-id="WWE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCBCyHERjXilL4TmnZmTdIhHDlnZxFFcpqQ&usqp=CAU" group-title="📺 Sports 📺",WWE
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1  tvg-id="WWE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCBCyHERjXilL4TmnZmTdIhHDlnZxFFcpqQ&usqp=CAU" group-title="📺 Sports 📺",WWE-1
-#https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1698
-
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus 4K" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="📺 Entertainment 📺",Star Plus 4k
@@ -205,8 +203,7 @@ http://221.120.204.4/zee-tv-LOCKLE/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="📺 KIDS 📺",Sony Yay 
-#http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
-http://eurotv.vip:80/60/60/52891
+http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
 #EXTINF:-1 ch-id="MARVEL HQ" tvg-logo="https://1.bp.blogspot.com/-PKdkAeVK2lA/YOrQ3nwD8dI/AAAAAAAAAUA/6cxcyTeHvxYwyzQZJG62Y5lSTy54kO1HgCLcBGAsYHQ/s200/images%25287%2529.png"  group-title="📺 KIDS 📺",MARVEL HQ
 https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
 #EXTINF:-1 ch-id="SONIC" tvg-logo="https://1.bp.blogspot.com/-o8d-P5Yt6rg/YOrRBiFf7gI/AAAAAAAAAUE/r4Kms_g926A_3sGY08d-_fWA-7HQ6AZoQCLcBGAsYHQ/s200/Nickelodeon_Sonic_logo.png"  group-title="📺 KIDS 📺",SONIC
