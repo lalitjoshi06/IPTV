@@ -12,11 +12,10 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:ip
 #https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 https://zee5-rds.herokuapp.com/?c=0-9-tvpictureshd
 #EXTINF:-0 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Star Gold HD
-#http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
-http://93.152.174.144:4000/play/stargold/index.m3u8
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Utsav Gold
-#http://indo51.gcdn.co/hindi-STARGOLDUK/tracks-v1a1/mono.m3u8
+#http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Utsav Gold
+http://194.40.240.171:83/11111111/22222222/380075
 #EXTINF:-112 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",UTV Action
 #http://103.153.39.34:8000/play/a06o/index.m3u8
 http://rv.flysat.live:80/307211612546/307211612546/83632
@@ -25,10 +24,8 @@ https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Zee Cinema HD
 #http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Star Gold2 HD
-http://103.153.39.34:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",MOVIES NOW HD Watch India
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/125
+http://iptv.tvmalaysia.cc:80/penang189/penang189/8999
 #EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="https://static.epg.best/in/Zing.in.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",ZING
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/2854.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="📺 Music 📺",9XM
@@ -58,17 +55,17 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1478
 #EXTINF:-1 tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/fox_crime_asia_hd.gif" group-title="📺 English Movies 📺",FOX CRIME
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/21701
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png" group-title="📺 English Movies 📺",FOX Life
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/126
+http://93.157.62.180:80/FoxLife/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="📺 English Movies 📺",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Star Movies Select
-http://103.153.39.34:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",STAR MOVIEMI HD
+https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="📺 English Movies 📺",& PRIVE HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/124
+http://nicefly.xyz:80/h21041003/651032140/245986
 #EXTINF:-1 tvg-id="" tvg-name="& Flix HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="📺 English Movies 📺",& Flix HD
 http://221.120.204.4/HBO-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",And Flix Main
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/54
+#EXTINF:-1 tvg-logo="" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",And Flix HD
+http://ns561850.ip-54-39-158.net:8080/manu99/manu99/7252
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="📺 English Movies 📺",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",HBO Link 1
@@ -86,7 +83,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",WB TV
 http://203.154.243.89:1205
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/11/12/zeeeeee.jpg?itok=CmIfTNh1" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Zee Cafe HD
-https://snehz5tvnew.herokuapp.com?c=0-9-zeecafehd
+http://maveniptv.tv:2095/s9hbox/shikos9hboxshiko/51967
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
 #EXTINF:-1 tvg-logo="" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Discover Films
@@ -121,7 +118,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-Co8iOD57Xy4/YP1JsL3s00I/AAAAAAAAAnI/hpzmKN2BN4YjplHVKNFUdfyaY396Q3FFwCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg" group-title="📺News 📺",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="📺News 📺",DD NEWS
-https://snehz5tvnew.herokuapp.com/?c=0-9-ddnews
+https://m-c048-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="📺News 📺",INDIA NEWS
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/IYXrLPs.png" group-title="📺News 📺",India TV
@@ -148,12 +145,10 @@ https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungin
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png"" group-title="📺News 📺",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="NEWS NATION" tvg-logo="https://static.epg.best/in/NewsNation.in.png" group-title="📺News 📺",NEWS NATION
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/283
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="📺 DOCUMENTRY 📺",National Geographic HD
-http://rv.flysat.live:80/ams/ams123/83645
+http://rv.flysat.live:80/307211171310/307211171310/83645
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="📺 DOCUMENTRY 📺",NAT GEO Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="disc.sience" tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/G71vtRQ/disscience.png" group-title="📺 DOCUMENTRY 📺",Discovery Science HINDI
@@ -161,7 +156,7 @@ https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-B3P6m94cx3A/YPlfzqeTTwI/AAAAAAAAAis/sE99jUtbw58QUg8TU67wURdpDbFsjXC6QCLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.jpeg" group-title="📺 DOCUMENTRY 📺",DISCOVERY HINDI
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="History TV 18 HD" tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="📺 DOCUMENTRY 📺", History TV 18 HD hindi
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/116
+http://jo123.biz/jweb/m3u8.php?c=History_18_Hindi&q=800&e=junk.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="https://assets.rstream.me/images/h/OCsZipbCKK.jpg" group-title="📺 Sports 📺",STAR SPORTS 1 HINDI HD
@@ -183,16 +178,16 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus 4K" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="📺 Entertainment 📺",Star Plus 4k
-http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
+http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="📺 Entertainment 📺",STAR PLUS HD
-#http://indo51.gcdn.co/hindi-STARPLUSHD/tracks-v1a1/mono.m3u8
-http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2838
+https://m3u-editor.com/serve/84802fd0-33bc-11ec-8d8c-b17fcdad1274/407495335
 #EXTINF:-1 tvg-id="" tvg-name="Star Bharat HD" tvg-logo="https://assets.rstream.me/images/h/sIwoBqiEao.jpg" group-title="📺 Entertainment 📺",STAR BHARAT HD
 http://ipflix.click:8080/1kth1tvk2j/rfvtgbyhnj/672447
 #EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="📺 Entertainment 📺",SONY
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/194
 #EXTINF:-1 tvg-id="" tvg-name="Sony TV HD 2" tvg-logo="" group-title="📺 Entertainment 📺",Sony TV HD
-https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/7c338b30-b7ee-11eb-8f75-cfec08a5ddb7/1649989/296880110.png" group-title="📺 Entertainment 📺", COLORS HD
 #https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
@@ -226,10 +221,7 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8258
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsSCdzPP55PY5SUeQeArSsdcg6BEWo35rmog&usqp=CAU" group-title="📺 KIDS 📺",WoW Kids
 http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DisneyJunior.png"  group-title="📺 KIDS 📺",Disney Junior
-#http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
-http://xcchui2.mrnova.online/live/60201_.m3u8?token=
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="📺 KIDS 📺",Nickelodeon
-http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/675522
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" tvg-chno="11" group-title="📺 KIDS 📺",Nick Pluto TV
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="📺 KIDS 📺",Nickelodeon Pluto TV
