@@ -144,6 +144,12 @@ https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungin
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png"" group-title="📺News 📺",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-id="DUMMYWION" tvg-name="WION" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Wion_Logo.png"  group-title="📺News 📺",Wion News (India) 
+https://d3neuepii3rf1i.cloudfront.net/v1/master/8fe6b38eb3580727128fa5d6759fbc48b3ec1c7e/Zee_News_MT_POC/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDU1MDc3NDN9.OxMrvbM7vHBV1FqR5JkZFFo-02fhdzEi2h7oPACxUt0
+#EXTINF:0 tvg-logo="https://bit.ly/2Zx7B1l"" group-title="📺News 📺",Zee News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDU1MDk0MjN9.HT_ZbwxhFdObQGZHNgdSiIrKk4DF_WcgMQbEvUAeY5Q
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png"  group-title="📺News 📺",Al Jazeera English
+https://youtu.be/-upyPouRrB8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="📺 DOCUMENTRY 📺",National Geographic HD
