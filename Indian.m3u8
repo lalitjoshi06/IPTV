@@ -149,7 +149,7 @@ https://d3neuepii3rf1i.cloudfront.net/v1/master/8fe6b38eb3580727128fa5d6759fbc48
 #EXTINF:0 tvg-logo="https://bit.ly/2Zx7B1l"" group-title="📺News 📺",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDU1MDk0MjN9.HT_ZbwxhFdObQGZHNgdSiIrKk4DF_WcgMQbEvUAeY5Q
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png"  group-title="📺News 📺",Al Jazeera English
-https://youtu.be/-upyPouRrB8
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8?checkedby:iptvcat.com
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="📺 DOCUMENTRY 📺",National Geographic HD
